@@ -1,3 +1,6 @@
-flask
-flask-socketio
-flask-cors
+# requirements.txt
+Flask
+Flask-SocketIO
+python-engineio
+python-socketio
+Flask-Cors
