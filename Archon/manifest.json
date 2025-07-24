@@ -1,0 +1,31 @@
+{
+  "name": "Archon",
+  "id": "1530240813504538655",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [
+    "codegen",
+    "inspect"
+  ],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "dev",
+    "figma"
+  ],
+  "ui": "ui.html",
+  "codegenLanguages": [
+    {
+      "label": "Language Label",
+      "value": "language-value"
+    }
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://www.figma.com"
+    ],
+    "devAllowedDomains": [
+      "http://localhost:5001"
+    ]
+  }
+}
