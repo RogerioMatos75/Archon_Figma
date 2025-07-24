@@ -20,7 +20,9 @@
   ],
   "networkAccess": {
     "allowedDomains": [
-      "none"
+      "https://www.figma.com",
+      "http://127.0.0.1:5001"
     ]
-  }
+  },
+  "icon": "assets/archon_icon.png"
 }
